@@ -5,6 +5,6 @@ export default async function LifeWithRett() {
       life with rett
     </section>
   );
-
+  
   return content;
 }
