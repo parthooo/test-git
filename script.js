@@ -18,7 +18,7 @@ export default async function LifeWithRett() {
             <p key={user.id}>
               <Link href={`/users/${user.id}`}>{user.name}</Link>
             </p>
-            <br />
+            <br /> 
           </>
         );
       })}
